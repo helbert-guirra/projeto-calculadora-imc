@@ -1,0 +1,18 @@
+.card {
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  width: 300px;
+  text-align: center;
+  margin: auto;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid #1e90ff;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
